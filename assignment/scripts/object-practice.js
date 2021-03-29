@@ -43,6 +43,7 @@ console.log(me.favThreeFoods[2]);
   - Set your object's shoeCount to be what it was plus 1
   - Console.log your updated shoe count.
 */
+
 me.shoeCount++;
 console.log(me.shoeCount);
 
